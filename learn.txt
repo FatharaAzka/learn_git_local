@@ -1,1 +1,3 @@
 Ini learn.txt
+
+ini yang baru di add
