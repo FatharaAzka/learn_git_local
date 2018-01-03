@@ -3,3 +3,7 @@ first
 ini setelah reset lalu di add lagi
 
 ini sebelum add commit lagi
+
+ini add sesudah reset commit lalu di add lagi
+
+ini sebelum unstaging file
