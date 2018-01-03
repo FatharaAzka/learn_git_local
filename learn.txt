@@ -1,1 +1,5 @@
 ini learn di branch master
+
+ini balikin setelah reset
+
+tes sebelum unstaging file
