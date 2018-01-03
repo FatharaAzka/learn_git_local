@@ -1,3 +1,5 @@
 first
 
-ini setelah reset lalu di add lagi 
+ini setelah reset lalu di add lagi
+
+ini sebelum add commit lagi
